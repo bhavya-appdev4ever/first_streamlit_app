@@ -1,5 +1,6 @@
 import streamlit
 import pandas
+import sbnowflake.connector
 streamlit.title('My Parents New Healthy Dinner')
 streamlit.header('Dinner Menu')
 streamlit.text('Oranges')
